@@ -6,7 +6,8 @@
 - email - **infonty919344@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw04XyskWvpBFE68hSpv8KOd&ust=1680449138507000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMiYtIL_iP4CFQAAAAAdAAAAABBf"
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/97352140/229298641-a2703ddc-0c20-4133-ae10-d4e9629255ee.png)
+">
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/mohit-2b2047204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mohit-2b2047204" height="30" width="40" /></a>
 <a href="https://instagram.com/infonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infonty" height="30" width="40" /></a>
