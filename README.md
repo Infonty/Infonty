@@ -1,3 +1,4 @@
+![logo](https://github.com/Infonty/Infonty/blob/main/WhatsApp%20Image%202023-03-26%20at%2012.22.21%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm MOhit</h1>
 <h3 align="center">I am currently learning DSA in C++</h3>
 
