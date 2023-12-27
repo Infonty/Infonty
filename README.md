@@ -1,6 +1,6 @@
 ![logo](https://github.com/Infonty/Infonty/blob/main/WhatsApp%20Image%202023-03-26%20at%2012.22.21%20PM.jpeg)
 <h1 align="center"><b>Hi 👋, This is MOhit</b></h1>
-<h3 align="center"><i>I am currently learning DSA in C++</i></h3>
+<h3 align="center"><i></i></h3>
 <img align="right" alt="coding" width="400" height="200"src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 
